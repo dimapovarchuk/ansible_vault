@@ -33,6 +33,18 @@
 <img width="511" alt="image" src="https://user-images.githubusercontent.com/52627259/234248952-a3d3a549-66d7-4029-a976-c5da75d6a081.png">
 <img width="394" alt="image" src="https://user-images.githubusercontent.com/52627259/234249216-ae6fa333-9a79-406c-9a34-05f081189443.png">
 
-## 
+## Run encrypted Ansible-vault 'playbook_vault.yml' file
+<img width="822" alt="image" src="https://user-images.githubusercontent.com/52627259/234349278-f7531e7b-5760-49f6-bf02-3d5c3d469163.png">
+
+## Save vault password in the file 'mypass.txt' and start 'playbook_vault.yml' file
+<img width="851" alt="image" src="https://user-images.githubusercontent.com/52627259/234351599-a95f6cf0-8e85-4b0a-8837-3d7a3fc89a79.png">
+
+## Encrypt string password in the 'playbook_vault.yml' file
+<img width="814" alt="image" src="https://user-images.githubusercontent.com/52627259/234358709-3dd1e564-dfe7-40e3-a4d6-3dfef834dfc2.png">
+<img width="651" alt="image" src="https://user-images.githubusercontent.com/52627259/234358851-c404da66-9ecf-4068-ac6f-8320a5e00446.png">
+<img width="843" alt="image" src="https://user-images.githubusercontent.com/52627259/234360236-73987fbc-3277-4824-9712-8cccaca43e42.png">
+
+
+
 
 
